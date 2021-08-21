@@ -3,7 +3,7 @@
 1. Roadmap: https://www.youtube.com/watch?v=kYIDqbHlZtk
 
 ## Resources
-1. Codedamn
+ Codedamn
 👉 javascript30 .com
 Build 30 things with vanilla Js in 30 days
 
@@ -31,3 +31,8 @@ This is a social development platform where you can write your code in the brows
 👉Adobe Color Wheel
 Choose from different types of color pairings and save your color palettes.
 
+[https://svgwave.in/]
+https://www.softr.io/tools/svg-wave-generator
+https://www.svgwaves.io/
+https://www.shapedivider.app/
+https://haikei.app/
