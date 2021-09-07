@@ -40,3 +40,5 @@ Choose from different types of color pairings and save your color palettes.
 👉https://www.shapedivider.app/
 
 👉https://haikei.app/
+
+👉https://wickedbackgrounds.com/backgrounds.html
