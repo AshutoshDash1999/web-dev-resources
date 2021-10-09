@@ -42,3 +42,5 @@ Choose from different types of color pairings and save your color palettes.
 👉https://haikei.app/
 
 👉https://wickedbackgrounds.com/backgrounds.html
+
+https://cssbattle.dev/battle/1
